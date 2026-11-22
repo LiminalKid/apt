@@ -1,0 +1,9 @@
+# Liminal Kid, as SETTINGS -> Software packages offers it to be trusted, with
+# liminalkid.asc, the public key its source is signed with
+# (A77F 0C19 7200 A7D4 D155 EED9 9AC4 3A71 B408 5D4B).
+# The source is LiminalKid/apt, served by GitHub Pages.
+Name: Liminal Kid
+About: Twill Studio, a piano-roll groovebox
+URIs: https://liminalkid.github.io/apt
+Suites: stable
+Components: main

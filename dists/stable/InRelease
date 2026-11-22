@@ -1,0 +1,31 @@
+-----BEGIN PGP SIGNED MESSAGE-----
+Hash: SHA512
+
+Origin: Liminal Kid
+Label: Liminal Kid
+Suite: stable
+Codename: stable
+Date: Sun, 22 Nov 2026 19:08:09 GMT
+Architectures: arm64
+Components: main
+Description: Liminal Kid's apps for sndstation handhelds
+MD5Sum:
+ af32b37475b86f3d6d69f8b06a40640a      901 main/binary-arm64/Packages
+ f6862d57b9b6f664730305753e16f3cf      592 main/binary-arm64/Packages.gz
+SHA1:
+ 8e161b05b3e303dcddbfd7766418cc17024e1b50      901 main/binary-arm64/Packages
+ b03a56651efd9150f6adcd7943f17234d005eb0e      592 main/binary-arm64/Packages.gz
+SHA256:
+ c1010291ff490d46fb32737fa1902e8d9f391afc2e2fe87178f8607818f6331a      901 main/binary-arm64/Packages
+ 28e2d20ee4e38ef5f42c4bf30cf1666f39bc1ec0d8bb42e43c5a62babd2fe568      592 main/binary-arm64/Packages.gz
+SHA512:
+ 051b43d1f2de3bd74083ebd7f4e57e873fde9d211414ee51c6791f23662178eedca46491b369cbae5aacc08831039fef2876e50fa5d85984c440f18bc6f6ce21      901 main/binary-arm64/Packages
+ c061aafda6090fff199f41f60a12685800dccfcdad6a6b01ca09b8fc86656347c31223cf4e624ccc7b3983e21fa44baa6720b5d101ba364203d19af8fda94d5d      592 main/binary-arm64/Packages.gz
+-----BEGIN PGP SIGNATURE-----
+
+iJEEARYKADkWIQSnfwwZcgCn1NFV7tmaxDpxtAhdSwUCawM9mRsUgAAAAAAEAA5t
+YW51MiwyLjUrMS4xMiwwLDMACgkQmsQ6cbQIXUvGcwD8DbGA0+eXnZYu5qKAVeHV
+pPTfsKqpiR1/zMVU9heWmu4BALJzbToqCiHH82eYIUB7lRtfncmGUYvYq9qTH1Z7
+oRwD
+=6EW7
+-----END PGP SIGNATURE-----
