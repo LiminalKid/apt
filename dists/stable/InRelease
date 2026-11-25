@@ -5,27 +5,27 @@ Origin: Liminal Kid
 Label: Liminal Kid
 Suite: stable
 Codename: stable
-Date: Wed, 25 Nov 2026 13:01:31 GMT
+Date: Wed, 25 Nov 2026 21:20:04 GMT
 Architectures: arm64
 Components: main
 Description: Liminal Kid's apps for sndstation handhelds
 MD5Sum:
- fcb5de27731498e632c4663de2f2a069     3607 main/binary-arm64/Packages
- b23b45a63b0c0fe80bc5e5916a6c5601      943 main/binary-arm64/Packages.gz
+ 117635a07cd1d7200e79866d904eb24d     4509 main/binary-arm64/Packages
+ 20ddc2c9a2bde4f73f29adc3dddf7f88     1055 main/binary-arm64/Packages.gz
 SHA1:
- d0de70089cc6bb743d08c9e726ddcee11fae5966     3607 main/binary-arm64/Packages
- f1e647a4269d17cbbf77350136fe32a4adeadce5      943 main/binary-arm64/Packages.gz
+ 76109256f0eb33a55ae7bafa1d27df0f65f5680b     4509 main/binary-arm64/Packages
+ b44550f6591955f1fbecc834ecb253a34c7a22f0     1055 main/binary-arm64/Packages.gz
 SHA256:
- 5c2e95b486100e2d1c2097e884ca7578e378350e21ec124f7a584731c73e2c30     3607 main/binary-arm64/Packages
- 2a5778cec062721e44aa93dde8c090b02fa65836b6b8984ce0bfbc8ae77a582b      943 main/binary-arm64/Packages.gz
+ c255ab6e5ece38172f2fdf4f65005c5a67f846c22b9d20813f7577d38823fbf6     4509 main/binary-arm64/Packages
+ 3b40fc701e3d49d46c946aa1e469e0411826223b0c7658681e0f709d1c6ae8a2     1055 main/binary-arm64/Packages.gz
 SHA512:
- 630e90ef66573c0131591156e7e9e5c17e95458a2840945e2770fd064280f3fcad5bc95c2bc980905a4f7ea43ca99dff2d8173c45c36242f811445012a088f5c     3607 main/binary-arm64/Packages
- 9278f068ec16570e61f919239cecffcf2c54fa8018a604bbda95ae36a0a9f8e6a293712d104cab6f86beeee841b48b7d3abf70646442586ec76f108cac269b7c      943 main/binary-arm64/Packages.gz
+ 323a63e0f3b409b587c78c092ecd351334e7cb9a6ab9ab9dadb0d15989c1a68d5ac7b5e40fb92c53d056025826509af66f73494025a93e6aa7daf05bbf63a8da     4509 main/binary-arm64/Packages
+ 894c24571709e12f06d32dbbe7ffbb8b40fc9087d07c864476420502fa34af2ebc14dc2e9e01f0f29c6a3039167fd885663bb504ece6ef6c841865ef581b0494     1055 main/binary-arm64/Packages.gz
 -----BEGIN PGP SIGNATURE-----
 
-iJEEARYKADkWIQSnfwwZcgCn1NFV7tmaxDpxtAhdSwUCawbcKxsUgAAAAAAEAA5t
-YW51MiwyLjUrMS4xMiwwLDMACgkQmsQ6cbQIXUvuwQEAiGib2tEyj5d2sn1nZFZJ
-5yUOq8isy0NqjvW2o3M1yZgA/2ijO9YSqpCrH9mrOj/PCW06c/iJfTWeoNn+Xdhz
-biIP
-=ikUe
+iJEEARYKADkWIQSnfwwZcgCn1NFV7tmaxDpxtAhdSwUCawdRBBsUgAAAAAAEAA5t
+YW51MiwyLjUrMS4xMiwwLDMACgkQmsQ6cbQIXUvSLgD/eaEmuHl37n3rqI2+xlu5
+b6+CD2ORNpdyQUVQgNjyAhkA/A5u5ChwnQBKpj8NgMUf2JIGAyO0ywX6JHrSZZ3i
+/xMA
+=9zHu
 -----END PGP SIGNATURE-----
