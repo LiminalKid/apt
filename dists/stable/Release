@@ -2,19 +2,19 @@ Origin: Liminal Kid
 Label: Liminal Kid
 Suite: stable
 Codename: stable
-Date: Wed, 25 Nov 2026 21:20:04 GMT
+Date: Fri, 27 Nov 2026 21:34:43 GMT
 Architectures: arm64
 Components: main
 Description: Liminal Kid's apps for sndstation handhelds
 MD5Sum:
- 117635a07cd1d7200e79866d904eb24d     4509 main/binary-arm64/Packages
- 20ddc2c9a2bde4f73f29adc3dddf7f88     1055 main/binary-arm64/Packages.gz
+ 9e9c851d01300ac663d070a7fd578588     5411 main/binary-arm64/Packages
+ c084a682e5cd566cb94cbfda624d33e1     1172 main/binary-arm64/Packages.gz
 SHA1:
- 76109256f0eb33a55ae7bafa1d27df0f65f5680b     4509 main/binary-arm64/Packages
- b44550f6591955f1fbecc834ecb253a34c7a22f0     1055 main/binary-arm64/Packages.gz
+ fecd1f84f7ab16e8762b7f509e1b2e82dbdabf23     5411 main/binary-arm64/Packages
+ c8fac425e709d4789a032a4e02aaef1cc3b8df94     1172 main/binary-arm64/Packages.gz
 SHA256:
- c255ab6e5ece38172f2fdf4f65005c5a67f846c22b9d20813f7577d38823fbf6     4509 main/binary-arm64/Packages
- 3b40fc701e3d49d46c946aa1e469e0411826223b0c7658681e0f709d1c6ae8a2     1055 main/binary-arm64/Packages.gz
+ 8d435521117228f71b807428e982f11fbe76e2997d6276e9e835f3fbbb8acfc5     5411 main/binary-arm64/Packages
+ 2aa087c684e9ce2c29bf0a88b48590ea1da3ad3b98c40fa1c70c531ceef55956     1172 main/binary-arm64/Packages.gz
 SHA512:
- 323a63e0f3b409b587c78c092ecd351334e7cb9a6ab9ab9dadb0d15989c1a68d5ac7b5e40fb92c53d056025826509af66f73494025a93e6aa7daf05bbf63a8da     4509 main/binary-arm64/Packages
- 894c24571709e12f06d32dbbe7ffbb8b40fc9087d07c864476420502fa34af2ebc14dc2e9e01f0f29c6a3039167fd885663bb504ece6ef6c841865ef581b0494     1055 main/binary-arm64/Packages.gz
+ 8ac7314ba3ab0388e2a4c15cca0d6ee31bebfc52fa4132b03c599a1aecd2e5fe6664b196a4915dcb8b851e905dd53f0d4b1faf66a33712b016b60321a735c665     5411 main/binary-arm64/Packages
+ 911b46a6c282c547ee88b3d845fdcd5a285878bbc23e7dbb5fc46fe7b39ed5d39a6566dfb1dccb5b85d7c22bb95407f80bf2616b11aaf8549949a2b96f832186     1172 main/binary-arm64/Packages.gz

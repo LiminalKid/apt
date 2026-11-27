@@ -102,3 +102,24 @@ Size: 2845328
 MD5sum: 70d440fc5dbbe6b8387bf33396580a8c
 SHA1: 5e2e8892031adaf811a5c6a1fef0a8c103cdbb94
 SHA256: be47b68449931b73017dec9652b847dae12aa65f3f60cf3b1891f8210503a97f
+
+Package: twill-studio
+Version: 0.8.0
+Section: sound
+Priority: optional
+Architecture: arm64
+Depends: sndstation, libc6 (>= 2.27), libsdl2-2.0-0 (>= 2.0.20), libasound2t64 | libasound2
+Maintainer: Liminal Kid <liminalkid17@gmail.com>
+Installed-Size: 6591
+Homepage: https://github.com/LiminalKid/TwillStudio
+Sndstation-Kind: app
+Description: Piano-roll groovebox for sndstation handhelds
+ Twill Studio makes songs with synths, drums and samples: eight tracks, a piano
+ roll, an arranger and a mixer, all played from the handheld's buttons or a
+ MIDI keyboard. Listed in the sndstation launcher once installed; songs,
+ samples and renders are kept in ~/TwillStudio.
+Filename: pool/main/t/twill-studio/twill-studio_0.8.0_arm64.deb
+Size: 2959666
+MD5sum: a72cddc47b8ab7a5d18574418ec855c1
+SHA1: 6001dc4e425f8090e68ee13a4231b58a347ab113
+SHA256: b6925e62fe8413d0d0d85e508360fccf0180a674edd7fb12fdd4fc90943e82a7
